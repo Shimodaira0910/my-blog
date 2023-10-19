@@ -1,0 +1,27 @@
+baseURL = 'https://shimodaira0910.github.io/test-blog/'
+publishDir = "docs"
+
+languageCode = 'ja'
+title = 'だいらのテストブログ'
+theme = 'paper'
+
+[params]
+# color style
+color = 'linen'                           # linen, wheat, gray, light
+
+# header social icons
+twitter = 'https://twitter.com/'               # twitter.com/YOUR_TWITTER_ID
+github = 'https://github.com/'                 # github.com/YOUR_GITHUB_ID
+instagram = 'https://www.instagram.com/'           # instagram.com/YOUR_INSTAGRAM_ID
+
+# home page profile
+avatar = 'https://1.bp.blogspot.com/-8kVWOTWYLj8/X1CLTTpI_aI/AAAAAAABa6g/qAFw1VsTiqk0-nj7y7vQsx3fgvLtfmnWQCNcBGAsYHQ/s1600/character_takoyaki.png'                 # gravatar email or image url
+name = 'だいら'
+bio = 'だいらです'
+
+# misc
+disableHLJS = true                        # disable highlight.js
+disablePostNavigation = true              # disable post navigation
+monoDarkIcon = false                       # show monochrome dark mode icon
+math = true                               # enable KaTeX math typesetting globally
+comments = true
