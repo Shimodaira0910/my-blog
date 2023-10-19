@@ -1,5 +1,4 @@
 baseURL = 'https://shimodaira0910.github.io/test-blog/'
-publishDir = "docs"
 languageCode = 'ja'
 title = 'だいらのテストブログ'
 theme = 'paper'
